@@ -1,0 +1,8 @@
+{
+    "name": "xHello",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true
+    }
+}
